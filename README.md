@@ -7,11 +7,17 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 <summary>Want to know more about me?</summary>
 <br>
 💻I started learning about programming and data science in March 2024
+<br>
 🖥️I built my first PC in 2022, which was when I first got into technology
+<br>
 👨‍🔬I originally planned to study Doctor of Medicine in 2024, but I grew interested in AI
+<br>
 🌯I work out 5 days a week, I like 50% of my calories to be protein
+<br>
 🧑‍🍳I learnt to cook a variety of cuisines to help my fitness journey
+<br>
 🧑‍🎓I like learning, not so much studying
+<br>
 🦸‍♂️I like the TV series called 'The Boys' on Amazon Prime, currently my favourite
 
 </details>
