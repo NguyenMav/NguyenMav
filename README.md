@@ -29,3 +29,7 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NguyenMav&icon=3&color=10)](https://visitcount.itsvg.in)
+
+<div align="center">
+<img src="https://profile-counter.glitch.me/NguyenMav/count.svg?" />
+</div>
