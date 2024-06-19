@@ -21,10 +21,6 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NguyenMav&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ##
 
 <img src="https://raw.githubusercontent.com/NguyenMav/NguyenMav/output/snake.svg" alt="Snake animation" />
