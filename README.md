@@ -2,10 +2,17 @@
 
 ## About Me
 Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a background in radiology. My journey spans from clinical insights to a deep-seated passion for leveraging data to tackle real-world challenges.<br><br>With a solid foundation in healthcare and a keen interest in data science, I thrive on exploring the intersection of these fields. My approach fosters collaborative problem-solving and innovation, aiming to bridge gaps between disciplines for impactful solutions.<br><br>Beyond my academic pursuits, I'm enthusiastic about applying data-driven insights across various domains to drive positive change. I'm always eager to explore new opportunities and connect with like-minded individuals who share a passion for making a difference through data.
-
+<br/>
 <details>
 <summary>Want to know more about me?</summary>
 <br>
+💻I started learning about programming and data science in March 2024
+🖥️I built my first PC in 2022, which was when I first got into technology
+👨‍🔬I originally planned to study Doctor of Medicine in 2024, but I grew interested in AI
+🌯I work out 5 days a week, I like 50% of my calories to be protein
+🧑‍🍳I learnt to cook a variety of cuisines to help my fitness journey
+🧑‍🎓I like learning, not so much studying
+🦸‍♂️I like the TV series called 'The Boys' on Amazon Prime, currently my favourite
 
 </details>
 
