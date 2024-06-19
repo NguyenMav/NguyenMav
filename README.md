@@ -14,7 +14,7 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 
 ## GitHub Stats
 <div class='container'>
-<img style="height: auto; width: 42%;" class="img" src="https://github-readme-stats.vercel.app/api?username=NguyenMav&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+<img style="height: auto; width: 43%;" class="img" src="https://github-readme-stats.vercel.app/api?username=NguyenMav&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 47%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenMav&theme=radical&hide_border=false" /></div>
