@@ -23,6 +23,7 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 🦸‍♂️I like the TV series called 'The Boys' on Amazon Prime, currently my favourite
 </details>
 
+
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maverick-nguyen/) 
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/maverick-nguyen)
@@ -40,11 +41,12 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 <img style="height: auto; width: 47%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenMav&theme=radical&hide_border=false" /></div>
 </div>
 
+
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NguyenMav&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-##
 
+##
 <img src="https://raw.githubusercontent.com/NguyenMav/NguyenMav/output/snake.svg" alt="Snake animation" />
 
 
