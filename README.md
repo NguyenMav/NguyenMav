@@ -14,7 +14,7 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=NguyenMav&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 60%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenMav&theme=radical&hide_border=false" /></div>
+<img style="height: auto; width: 50%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenMav&theme=radical&hide_border=false" /></div>
 </div>
 
 ## 🏆 GitHub Trophies
