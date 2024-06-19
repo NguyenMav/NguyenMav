@@ -4,6 +4,7 @@
 Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a background in radiology. My journey spans from clinical insights to a deep-seated passion for leveraging data to tackle real-world challenges.<br><br>With a solid foundation in healthcare and a keen interest in data science, I thrive on exploring the intersection of these fields. My approach fosters collaborative problem-solving and innovation, aiming to bridge gaps between disciplines for impactful solutions.<br><br>Beyond my academic pursuits, I'm enthusiastic about applying data-driven insights across various domains to drive positive change. I'm always eager to explore new opportunities and connect with like-minded individuals who share a passion for making a difference through data.
 
 <br>
+
 <details>
 <summary>Want to know more about me?</summary>
 <br>
