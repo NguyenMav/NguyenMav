@@ -6,7 +6,7 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 <details>
 <summary>Want to know more about me?</summary>
 <br>
-💻I started learning about programming and data science in March 2024
+💻I started learning about programming for the first time in March 2024
 <br>
 🖥️I built my first PC in 2022, which was when I first got into technology
 <br>
