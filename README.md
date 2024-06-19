@@ -23,6 +23,7 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 🦸‍♂️I like the TV series called 'The Boys' on Amazon Prime, currently my favourite
 </details>
 
+
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maverick-nguyen/) 
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/maverick-nguyen)
