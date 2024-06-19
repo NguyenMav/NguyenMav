@@ -29,6 +29,7 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 
 
 <div align="center">
-  **Profile Visits**
+  PROFILE VISITS
+  <br/>
   <img src="https://profile-counter.glitch.me/NguyenMav/count.svg?" />
 </div>
