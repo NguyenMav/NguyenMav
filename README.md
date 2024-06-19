@@ -14,7 +14,7 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 <br>
 👨‍🔬I originally planned to study Doctor of Medicine in 2024, but I grew interested in AI
 <br>
-🌯I work out 5 days a week, I like 50% of my calories to be protein
+🌯I work out 5 days a week, I like 40% of my calories to be protein
 <br>
 🧑‍🍳I learnt to cook a variety of cuisines to help my fitness journey
 <br>
