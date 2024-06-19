@@ -3,6 +3,12 @@
 ## About Me
 Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a background in radiology. My journey spans from clinical insights to a deep-seated passion for leveraging data to tackle real-world challenges.<br><br>With a solid foundation in healthcare and a keen interest in data science, I thrive on exploring the intersection of these fields. My approach fosters collaborative problem-solving and innovation, aiming to bridge gaps between disciplines for impactful solutions.<br><br>Beyond my academic pursuits, I'm enthusiastic about applying data-driven insights across various domains to drive positive change. I'm always eager to explore new opportunities and connect with like-minded individuals who share a passion for making a difference through data.
 
+<details>
+<summary>Want to know more about me?</summary>
+<br>
+
+</details>
+
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maverick-nguyen/) 
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/maverick-nguyen)
