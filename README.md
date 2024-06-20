@@ -36,25 +36,10 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 
 ## GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-
-<div style="flex-basis: 48%; margin-bottom: 10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=NguyenMav&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 100%; height: auto; display: block;">
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=NguyenMav&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenMav&theme=radical&hide_border=false" alt="GitHub Streak" width="48%">
 </div>
-
-<div style="flex-basis: 48%; margin-bottom: 10px;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenMav&theme=radical&hide_border=false" alt="GitHub Streak" style="width: 100%; height: auto; display: block;">
-</div>
-
-</div>
-
-<style>
-@media (max-width: 768px) {
-    div[style*="flex-basis"] {
-        flex-basis: 100%;
-    }
-}
-</style>
 
 
 ## GitHub Trophies
