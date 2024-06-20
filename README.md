@@ -11,7 +11,7 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 <br>
 💻I started learning about programming for the first time in March 2024
 <br>
-🖥️I built my first PC in 2022, which was when I first got into technology
+🖥️I built my first PC in 2021, which was when I first got into technology
 <br>
 👨‍🔬I originally planned to study Doctor of Medicine in 2024, but I grew interested in AI
 <br>
