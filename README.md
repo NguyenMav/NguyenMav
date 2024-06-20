@@ -27,6 +27,7 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maverick-nguyen/) 
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/maverick-nguyen)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCTuPJf9ZkRI0yTq7gB31LSQ)
 
 ## Tech Stack
 
