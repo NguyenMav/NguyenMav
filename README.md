@@ -59,14 +59,6 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 #### Cloud Technologies Stack
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-## Key Personal Projects (To Be Added)
-
-| Project Name | Technologies Used  | Short Description |
-| ------------ | ------------------ | ----------------- |
-| A     |  | | 
-| B     |  | | 
-| C     |  | | 
-
 ## GitHub Stats
 
 <table style="width: 100%; table-layout: fixed;">
