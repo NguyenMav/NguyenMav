@@ -31,7 +31,7 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 
 ## Tech Stack (Currently Learning Most)
 <details>
-<summary><strong>Click to expand</strong></summary>
+<summary>Click to expand</summary>
 
 #### Programming Languages Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
