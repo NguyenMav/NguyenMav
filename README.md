@@ -6,7 +6,7 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 <br>
 
 <details>
-<summary>Want to know more about me?</summary>
+<summary>Want to know more about me? Click to expand</summary>
 <br>
 💻I started learning about programming for the first time in March 2024
 <br>
@@ -28,14 +28,17 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/maverick-nguyen)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCTuPJf9ZkRI0yTq7gB31LSQ)
 
-## Tech Stack (Learning)
+
+## Tech Stack (Currently Learning Most)
+<details>
+<summary><strong>Click to expand</strong></summary>
 
 #### Programming Languages Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-#### Database Management Stack
+#### Database Management / Querying Stack
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -61,6 +64,10 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 
 #### Other Tools Stack
 ![Microsoft](https://img.shields.io/badge/microsoft365-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+</details>
 
 ## GitHub Stats
 
