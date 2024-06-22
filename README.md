@@ -29,7 +29,7 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCTuPJf9ZkRI0yTq7gB31LSQ)
 
 
-## Tech Stack (Currently Learning Most)
+## Tech Stack (Currently Learning)
 <details>
 <summary>Click to expand</summary>
 
