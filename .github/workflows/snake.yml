@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Generate snake animation
         uses: Platane/snk@v3.2.0
@@ -28,12 +28,11 @@ jobs:
       - name: List generated files
         run: ls -l dist
 
-      # Optionally, you can add a step to display the status of the repository after the snake generation
       - name: Show build status
         run: git status
 
       - name: Push new files to output branch 
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
