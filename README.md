@@ -88,7 +88,7 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 
 | Contribution Graph |
 | --- |
-| ![Snake Animation](dist/github-contribution-grid-snake.gif) |
+| ![Snake Animation](https://raw.githubusercontent.com/NguyenMav/NguyenMav/output/github-contribution-grid-snake.svg) |
 
 
 ##
