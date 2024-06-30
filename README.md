@@ -66,7 +66,6 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 ![Microsoft](https://img.shields.io/badge/microsoft365-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 </details>
 
 ## GitHub Stats
