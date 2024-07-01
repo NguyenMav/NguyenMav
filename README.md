@@ -89,7 +89,6 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 | --- |
 | ![github contribution grid snake animation](https://raw.githubusercontent.com/NguyenMav/NguyenMav/output/github-contribution-grid-snake-dark.svg) |
 
-
 ##
 <div align="center">
   PROFILE VISITS
