@@ -1,37 +1,38 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=e7edf3&height=150&section=header&text="Data%20Enthusiast%20With%20A%20Healthcare%20Background"&fontColor=141322&fontSize=35&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=e7edf3&height=150&section=header&text="Data%20Enthusiast"&fontColor=141322&fontSize=35&animation=twinkling)
 
 ## About Me
-Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a background in radiology. My journey spans from clinical insights to a deep-seated passion for leveraging data to tackle real-world challenges.<br><br>With a solid foundation in healthcare and a keen interest in data science, I thrive on exploring the intersection of these fields. My approach fosters collaborative problem-solving and innovation, aiming to bridge gaps between disciplines for impactful solutions.<br><br>Beyond my academic pursuits, I'm enthusiastic about applying data-driven insights across various domains to drive positive change. I'm always eager to explore new opportunities and connect with like-minded individuals who share a passion for making a difference through data.
+Hello there! I'm Maverick, with a background in medical imaging and data science. Don't have a whole lot to say really! But uhhh, this is where I put up my personal projects or some university's projects.
 
 <br>
 
 <details>
-<summary>Want to know more about me? Click to expand</summary>
+  
+<summary>Want to know more about me? [Click to expand]</summary>
+
 <br>
-💻I started learning about programming for the first time in March 2024
+💻I started learning about programming for the first time in March 2024.
 <br>
-🖥️I built my first PC in 2021, which was when I first got into technology
+🖥️I built my first PC in 2021, which was when I first got into technology.
 <br>
-👨‍🔬I originally planned to study Doctor of Medicine in 2024, but I grew interested in AI
+👨‍🔬I originally planned to study a Doctor of Medicine in 2024, but I grew interested in AI.
 <br>
-🌯I work out 5 days a week, I like 40% of my calories to be protein
+🌯I like to work out in my personal gym.
 <br>
-🧑‍🍳I learnt to cook a variety of cuisines to help my fitness journey
+🧑‍🍳I learnt to cook a variety of cuisines to help my fitness journey.
 <br>
-🧑‍🎓I like learning, not so much studying
+🧑‍🎓I like learning new things, though not a fan of studying.
 <br>
-🦸‍♂️I like the TV series called 'The Boys' on Amazon Prime, currently my favourite
+🦸‍♂️I like the TV series called 'The Boys' on Amazon Prime.
+
 </details>
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maverick-nguyen/) 
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/maverick-nguyen)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCTuPJf9ZkRI0yTq7gB31LSQ)
-
 
 ## Tech Stack (Currently Learning)
 <details>
-<summary>Click to expand</summary>
+<summary>Check out what I know! [Click to expand]</summary>
 
 #### Programming Languages Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -46,6 +47,7 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 #### Web Development Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -62,37 +64,26 @@ Hello there! I'm Maverick, currently pursuing a Master's in Data Science with a 
 #### Cloud Technologies Stack
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-#### Other Tools Stack
+#### Other Tools/Knowledge Stack
 ![Microsoft](https://img.shields.io/badge/microsoft365-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 </details>
 
 ## GitHub Stats
 
-<table style="width: 100%; table-layout: fixed;">
-  <tr>
-    <td style="width: 50%; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=NguyenMav&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 100%; height: auto; display: inline-block;">
-    </td>
-    <td style="width: 50%; text-align: center;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenMav&theme=radical&hide_border=false" alt="GitHub Streak" style="width: 100%; height: auto; display: inline-block;">
-    </td>
-  </tr>
-</table>
-
 | GitHub Trophies |
-| --- |
+| :--: |
 | ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NguyenMav&theme=radical&no-frame=true&no-bg=true&margin-w=4) |
 
 | Contribution Graph |
-| --- |
+| :--: |
 | ![github contribution grid snake animation](https://raw.githubusercontent.com/NguyenMav/NguyenMav/output/github-contribution-grid-snake-dark.svg) |
 
 
-##
-<div align="center">
-  PROFILE VISITS
-  <br/>
-  <img src="https://profile-counter.glitch.me/NguyenMav/count.svg?" />
-</div>
+## Profile Visits (Reset 02/02/26)
+![Profile Views](https://komarev.com/ghpvc/?username=NguyenMav&style=for-the-badge&color=blueviolet)
+
