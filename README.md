@@ -26,10 +26,6 @@ Hello there! I'm Maverick, with a background in medical imaging and data science
 
 </details>
 
-## Socials
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maverick-nguyen/) 
-[![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/maverick-nguyen)
-
 ## Tech Stack (Currently Learning)
 <details>
 <summary>Check out what I know! [Click to expand]</summary>
