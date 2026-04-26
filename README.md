@@ -71,10 +71,6 @@ Hello there! I'm Maverick, with a background in medical imaging and data science
 
 ## GitHub Stats
 
-| GitHub Trophies |
-| :--: |
-| ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NguyenMav&theme=radical&no-frame=true&no-bg=true&margin-w=4) |
-
 | Contribution Graph |
 | :--: |
 | ![github contribution grid snake animation](https://raw.githubusercontent.com/NguyenMav/NguyenMav/output/github-contribution-grid-snake-dark.svg) |
