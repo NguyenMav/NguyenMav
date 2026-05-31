@@ -16,13 +16,11 @@ Hello there! I'm Maverick, with a background in medical imaging and data science
 <br>
 👨‍🔬I originally planned to study a Doctor of Medicine in 2024, but I grew interested in AI.
 <br>
-🌯I like to work out in my personal gym.
-<br>
 🧑‍🍳I learnt to cook a variety of cuisines to help my fitness journey.
 <br>
 🧑‍🎓I like learning new things, though not a fan of studying.
 <br>
-🦸‍♂️I like the TV series called 'The Boys' on Amazon Prime.
+🦸‍♂️I like the TV series called 'The Boys' on Amazon Prime (On second thoughts, the ending was shite).
 
 </details>
 
@@ -56,9 +54,6 @@ Hello there! I'm Maverick, with a background in medical imaging and data science
 #### Version Control Stack
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
-#### Cloud Technologies Stack
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 #### Other Tools/Knowledge Stack
 ![Microsoft](https://img.shields.io/badge/microsoft365-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
