@@ -1,8 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=e7edf3&height=150&section=header&text="Lowkey%20Chilling"&fontColor=141322&fontSize=35&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=e7edf3&height=150&section=header&text="Lowkey%20Chilling%20And%20Supervising%20AI"&fontColor=141322&fontSize=35&animation=twinkling)
 
 ## Tech Stack (Currently Learning)
-<details>
-<summary>Check out what I know! [Click to expand]</summary>
 
 #### Programming Languages Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -38,8 +36,6 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-</details>
-
 ## GitHub Stats
 
 | Contribution Graph |
@@ -47,6 +43,6 @@
 | ![github contribution grid snake animation](https://raw.githubusercontent.com/NguyenMav/NguyenMav/output/github-contribution-grid-snake-dark.svg) |
 
 
-## Profile Visits (Reset 01/10/26)
+## Profile Visits
 ![Profile Views](https://komarev.com/ghpvc/?username=NguyenMav&style=for-the-badge&color=blueviolet)
 
