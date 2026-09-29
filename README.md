@@ -1,28 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=e7edf3&height=150&section=header&text="Data%20Enthusiast"&fontColor=141322&fontSize=35&animation=twinkling)
-
-## About Me
-Hello there! I'm Maverick, with a background in medical imaging and data science. Don't have a whole lot to say really! But uhhh, this is where I put up my personal projects or some university's projects.
-
-<br>
-
-<details>
-  
-<summary>Want to know more about me? [Click to expand]</summary>
-
-<br>
-💻I started learning about programming for the first time in March 2024.
-<br>
-🖥️I built my first PC in 2021, which was when I first got into technology.
-<br>
-👨‍🔬I originally planned to study a Doctor of Medicine in 2024, but I grew interested in AI.
-<br>
-🧑‍🍳I learnt to cook a variety of cuisines to help my fitness journey.
-<br>
-🧑‍🎓I like learning new things, though not a fan of studying.
-<br>
-🦸‍♂️I like the TV series called 'The Boys' on Amazon Prime (On second thoughts, the ending was shite).
-
-</details>
+![header](https://capsule-render.vercel.app/api?type=soft&color=e7edf3&height=150&section=header&text="Lowkey%20Chilling"&fontColor=141322&fontSize=35&animation=twinkling)
 
 ## Tech Stack (Currently Learning)
 <details>
@@ -71,6 +47,6 @@ Hello there! I'm Maverick, with a background in medical imaging and data science
 | ![github contribution grid snake animation](https://raw.githubusercontent.com/NguyenMav/NguyenMav/output/github-contribution-grid-snake-dark.svg) |
 
 
-## Profile Visits (Reset 02/02/26)
+## Profile Visits (Reset 01/10/26)
 ![Profile Views](https://komarev.com/ghpvc/?username=NguyenMav&style=for-the-badge&color=blueviolet)
 
